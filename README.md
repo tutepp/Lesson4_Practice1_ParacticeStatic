@@ -1,1 +1,1 @@
-# Lesson4_Practice1_ParacticeStatic
+# Lesson4_Practice1_PracticeStatic
